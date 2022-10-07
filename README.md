@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cerentaskent
 - 👀 I’m interested in Cryptology, APP GUI, QML 
 - 🌱 I’m currently learning QML
-- 📫 How to reach me [linkedin](www.linkedin.com/in/cerentaskent)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/cerentaskent)
 
 
 <!---
